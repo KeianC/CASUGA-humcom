@@ -1,0 +1,16 @@
+*{
+    font-family: 'Gill sans', 'Gill Sans MT', 'Calibri';
+    font-size: 1em;
+    box-sizing: border-box;
+    
+}
+body
+{
+    background-color: antiquewhite;
+    color: coral;
+    width: 960px;
+    margin: 20px auto;
+    border: 2px #0000 solid;
+    padding: 20px;
+    height: max-content;
+}
