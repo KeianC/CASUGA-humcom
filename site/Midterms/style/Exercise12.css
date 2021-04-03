@@ -1,0 +1,104 @@
+#Header
+{
+    background-color: #9AC4FD;                
+    color:black;               
+     width: 95%;  
+     height: 80%;
+     margin: 5px auto;              
+    text-align: left
+}
+
+#Header_Table
+{
+    background-color: #CCE2FE;                
+    color:black;  
+     height: 55%;
+     margin: 15% auto;             
+    text-align: center
+    display: flex;
+    align-items: center;
+    border: 9px #9AC4FD solid;   
+}
+
+#Details
+{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center
+    align-items: center;
+}
+
+#Mainframe1
+{
+    background-color: #9AC4FD;                
+    color:black;               
+     width: 70%;  
+     height: 80%;
+     margin: 5px auto;              
+    text-align: left
+}
+
+#Mainframe2
+{
+    background-color: #9AC4FD;                
+    color:black;               
+     width: 30%;  
+     height: 80%;
+     margin: 5px auto;              
+    text-align: left
+
+    
+}
+
+#Footer1
+{
+    background-color: #9AC4FD;                
+    color:black;               
+    width: 95%;  
+     height: 60px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+     margin: 20px auto;              
+    text-align: center
+}
+
+#Hero_Table
+{
+    background-color: #CCE2FE;                
+    color:black;  
+     height: 65px;
+     margin: 15% auto;             
+    text-align: center
+    display: flex;
+    align-items: center;
+    border: 9px #9AC4FD solid;   
+}
+
+#Body_Table
+{
+    background-color: #CCE2FE;                
+    color:black;  
+     height: 250px;
+     margin: 15% auto;             
+    text-align: center
+    display: flex;
+    align-items: center;
+    border: 9px #9AC4FD solid;   
+    
+}
+
+#Sidebar_Feature
+{
+    background-color: #CCE2FE;                
+    color:black;               
+     width: 95%;  
+     height: 300px;
+     margin: 15% auto;   
+     top: 60%;
+     display: flex;
+    align-items: center;
+    justify-content: center;   
+    text-align: center
+}

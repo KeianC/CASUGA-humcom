@@ -1,0 +1,48 @@
+* 
+#Header
+{
+    background-color: #D7D7D7;                
+    color:black;               
+     width: 90%;  
+     height: 10%;
+     margin: 10px auto;                
+     border: 2px #000000 solid;   
+     
+}
+
+#HeaderTable
+{
+    background-color: #D7D7D7;                
+    color:black;               
+     width: 930px;  
+     height: 65px;
+     margin: 25px auto;                
+     border: 2px #000000 solid;   
+    text-align: center
+    display: flex;
+    align-items: center;
+}
+
+#Seperator
+{
+    background-color: #D7D7D7;                
+    color:black;               
+     width: 90%;  
+     height: 10%;
+     margin: 10px auto;                
+     border: 2px #000000 solid;   
+}
+
+#Footer1
+{
+    background-color: #C1C1C1;                
+    color:black;               
+     width: 960px;  
+     height: 60px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+     margin: 20px auto;                
+     border: 2px #000000 solid;   
+    text-align: center
+}
